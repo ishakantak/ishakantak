@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isha Kantak</h1>
 <h3 align="center">A passionate Computer Science student from Canada</h3>
 
-- 🌱 I’m currently learning **OS Programming Concept, Database Management Systems**
+- 🌱 I’m currently learning **Web Scrapping**
 
-- 💬 Ask me about **web developement and UX Design**
+- 💬 Ask me about **web development and UX Design**
 
 - 📫 How to reach me **kantakisha@gmail.com**
 
